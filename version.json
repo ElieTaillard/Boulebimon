@@ -1,0 +1,7 @@
+{
+  "name": "Boulebimon",
+  "version": "2.0.0",
+  "minecraft": "1.21.1",
+  "loader": "fabric-0.18.4",
+  "base": "COBBLEVERSE 1.7.42 CF"
+}
